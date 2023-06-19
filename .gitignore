@@ -1,0 +1,14 @@
+.idea
+neural_network/__pycache__
+venv/
+__pycache__/
+videoCapture/
+neural_network/data/dataset_binary/images/*
+neural_network/data/dataset_binary/numpy file/*
+neural_network/data/dataset_digits/images/*
+neural_network/data/dataset_digits/numpy file/*
+neural_network/data/source_data/Fonts/*
+
+
+
+
