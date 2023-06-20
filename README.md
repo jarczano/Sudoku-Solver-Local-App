@@ -47,6 +47,9 @@ Run train model:
 - Numpy
 - Keras
 - Tensorflow
+- Matplotlib
+- Scikit-learn
+- Pillow
 - Scipy
 - Opencv
 
