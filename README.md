@@ -38,7 +38,7 @@ Run Sudoku Solver Local App:
 Run train model:
 - Clone the repository: `git clone https://github.com/jarczano/Sudoku-Solver-Local-App`
 - Install the requirements: `pip install -r requirements.txt`
-- Place a font in .ttf format in `Sudoku Solver/neural_network/data/source_data/Fonts`
+- Place a font in .ttf format in `Sudoku Solver/neural_network/data/source_data/Fonts`. Fonts can be downloaded, for example, from here https://fonts.google.com/
 - Run `neural_network/train_model_digits.py` to train the digit recognition model; run `neural_network/train_model_binary.py` to train the model to recognize whether a cell is empty or filled
 
 
