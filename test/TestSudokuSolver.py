@@ -1,6 +1,5 @@
 import numpy as np
 import unittest
-import sudoku
 from sudoku import Sudoku
 
 

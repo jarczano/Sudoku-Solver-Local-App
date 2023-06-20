@@ -1,6 +1,5 @@
-import find_sudoku_board
+from find_sudoku_board import find_sudoku_board
 import cv2
-import split_board
 
 
 class TestSudokuBoardVision:
@@ -15,7 +14,7 @@ class TestSudokuBoardVision:
             cv2.imshow('frame', frame)
 
             try:
-                found, board = find_sudoku_board.find_sudoku_board_2(frame)
+                found, board = find_sudoku_board(frame)
             except Exception:
                 pass
 
@@ -93,7 +92,7 @@ class TestSudokuBoardVision:
             cv2.imshow('frame', frame)
 
             try:
-                found, board = find_sudoku_board.find_sudoku_board(frame)
+                found, board = find_sudoku_board(frame)
             except Exception:
                 pass
 
