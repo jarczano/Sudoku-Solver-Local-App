@@ -56,7 +56,7 @@ Run train model:
 ## Related Projects:
 - Sudoku Solver Web App https://github.com/jarczano/Sudoku-Solver-Web-App
 ## License:
-MIT
+- MIT
 
 ## Author:
-Jarosław Turczyn
+- Jarosław Turczyn
