@@ -1,4 +1,4 @@
-from find_sudoku_board import find_sudoku_board
+from app.find_sudoku_board import find_sudoku_board
 import cv2
 
 

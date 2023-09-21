@@ -1,11 +1,12 @@
 import cv2
 import copy
 import numpy as np
-from recognize_board import recognize_board
-from sudoku import Sudoku
-from image_solve_board import image_solve_board
-from find_sudoku_board import find_sudoku_board
-from split_board import split_board, find_squares
+
+from app.recognize_board import recognize_board
+from app.sudoku import Sudoku
+from app.image_solve_board import image_solve_board
+from app.find_sudoku_board import find_sudoku_board
+from app.split_board import split_board, find_squares
 
 
 def sudoku_solver():

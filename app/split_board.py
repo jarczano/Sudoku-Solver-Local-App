@@ -1,6 +1,6 @@
 import cv2
 from scipy import ndimage
-from utils import protractor, sorted_squares, divide_contour
+from app.utils import protractor, sorted_squares, divide_contour
 import numpy as np
 import math
 

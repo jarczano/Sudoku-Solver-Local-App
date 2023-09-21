@@ -1,6 +1,6 @@
 import numpy as np
 import unittest
-from sudoku import Sudoku
+from app.sudoku import Sudoku
 
 
 class TestSudoku(unittest.TestCase):
